@@ -1,0 +1,6 @@
+{
+	"name": "ordr/ordr",
+	"description": "PHP SDK for the ORDR API",
+	"homepage": "https://ordr.menu",
+	"license": "MIT"
+}
